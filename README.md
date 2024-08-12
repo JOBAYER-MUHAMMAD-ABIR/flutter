@@ -1,6 +1,6 @@
-# untitled
+GeminiWeather
 
-A new Flutter project.
+Your Daily Dose of Weather Wonders.
 
 ## Getting Started
 
